@@ -1,4 +1,8 @@
 _repo: Stjarnornas-kungabarn-3-Makalos-En-tids-och-karaktersstudie-fran-drottning-Kristinas-dagar_50367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50367-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Topelius, Zacharias
@@ -15,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Zachris_Topelius
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50367#Stjarnornas-kungabarn-3-Makalos-En-tids-och-karaktersstudie-fran-drottning-Kristinas-dagar
 gutenberg_issued: '2015-11-02'
 gutenberg_type: Text
 identifiers:
