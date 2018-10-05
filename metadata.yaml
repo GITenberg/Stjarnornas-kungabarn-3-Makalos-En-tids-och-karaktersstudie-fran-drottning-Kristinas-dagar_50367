@@ -29,6 +29,8 @@ language: sv
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Stjärnornas kungabarn 3: Makalös
 
   En tids- och karaktersstudie från drottning Kristinas dagar'
